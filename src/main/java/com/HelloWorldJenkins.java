@@ -7,5 +7,6 @@ public class HelloWorldJenkins {
 
     public static void main(String[] args) {
         System.out.println("Hello world jenkins");
+        System.out.println("commit");
     }
 }
