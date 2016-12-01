@@ -8,5 +8,11 @@
     <artifactId>com</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <dependencies>
+     <dependency>
+        <groupId>HelloWorldJenkins</groupId>
+        <artifactId>com</artifactId>
+        <version>1.0-20161130.210450-1</version>
+    </dependency>
+    </dependencies>
 </project>
